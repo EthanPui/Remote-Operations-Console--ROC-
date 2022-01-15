@@ -1,0 +1,3 @@
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Final Data\LREV_ROC_FIRMWARE\LREV_ROC_FIRMWARE\LREV_ROC_MASTER\obj\x86\Debug\RunJoyStickOnLocalMachine.Form_ROC_GUI.resources
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Final Data\LREV_ROC_FIRMWARE\LREV_ROC_FIRMWARE\LREV_ROC_MASTER\obj\x86\Debug\LREV_ROC_MASTER.csproj.GenerateResource.cache
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Final Data\LREV_ROC_FIRMWARE\LREV_ROC_FIRMWARE\LREV_ROC_MASTER\obj\x86\Debug\LREV_ROC_MASTER.csproj.CoreCompileInputs.cache

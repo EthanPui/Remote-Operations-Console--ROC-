@@ -1,0 +1,20 @@
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.exe.config
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.exe
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.pdb
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU_CLIENT.Properties.Resources.resources
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.exe
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.pdb
+C:\Users\ethan\source\repos\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU_CLIENT.ClientForm.resources
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.exe.config
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.exe
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\bin\Debug\MCU-CLIENT.pdb
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csprojAssemblyReference.cache
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU_CLIENT.ClientForm.resources
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU_CLIENT.Properties.Resources.resources
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csproj.GenerateResource.cache
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.exe
+C:\Users\ethan\OneDrive\Space Industries Files-EthanPui\Support\MCU-CLIENT\MCU-CLIENT\obj\Debug\MCU-CLIENT.pdb
