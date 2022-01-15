@@ -1,6 +1,6 @@
 # Remote Operations Console (ROC)
  
-###Conclusion:
+### Conclusion:
 
 All outcomes are successfully implemented, went through multiple API and libraries such as SFML.NET (C#), SFML (C++), DirectX, SharpLibHid, UWP, Xinput, RawInput, SharpDX, DirectInput,  (in order) before settling on using WPF and for joystick functionality (Windows.Gaming.Input). To use controller named Razor Ruiji Master, an external application DS4Windows needs to be installed and run during operation. This application allows windows to emulate the Razor Ruiji Master controller as an Xbox 360 Controller. Possible risks for the future is if UWP becomes a legacy software, however due to past actions from Microsoft it has a chance to still remain stable and work possibly in future environments.  
 
@@ -16,7 +16,7 @@ ROC_State_Machine	Outlines the initial basic state machine for LREV_ROC_FIRMWARE
 Joystick_Api_Report	Updated to include current knowledge of libraries available for joystick integration to ROC master
 
 
-###Recommendations:
+### Recommendations:
 
 I recommend the process of going through all the cases for transitions between the states to clarify that the operating modes run bug free (create a state machine table that is thorough, clear and concise for future readability).
 
