@@ -11,8 +11,8 @@ Joystick controller “Emergency Stop” event and GUI “Emergency Stop” even
 All outcomes are successfully completed. Master Program layout is built to allow for future layout changes due to whole GUI being placed in one table layout. All buttons are setup with joystick inputs, left thumbstick and back left/right throttle are also set for non-holonomic drive. Output of these are shown in GUI. Joystick integration is done with WPF (Windows.Gaming.Input).
 
 ROC_FIRMWARE	Roc master with GUI, displaying input from Joystick, written in C#, creates server with same port as MCU
-MCU-CLIENT	Test Program acting as the MCU, written in C# responds and sends data packets with LREV_ROC_FIRMWARE program
-ROC_State_Machine	Outlines the initial basic state machine for LREV_ROC_FIRMWARE
+MCU-CLIENT	Test Program acting as the MCU, written in C# responds and sends data packets with ROC_FIRMWARE program
+ROC_State_Machine	Outlines the initial basic state machine for ROC_FIRMWARE
 Joystick_Api_Report	Updated to include current knowledge of libraries available for joystick integration to ROC master
 
 
